@@ -1,0 +1,21 @@
+:root{
+    --dark-color:#363958;
+    --orange:#FA804C; 
+}
+.header-banner{
+    height: 100vh;
+}
+.header-content h2{
+    font-size: 4.5rem;
+    color:var(--dark-color);
+    letter-spacing: -2px;
+}
+.orange{ 
+    color:var(--orange) ;
+}
+.nike-btn{
+    background: linear-gradient(#3D4FF3 ,#3543BC);
+}
+.card img{
+    background:#f1f1f1 ;
+}
